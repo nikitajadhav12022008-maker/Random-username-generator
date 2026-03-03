@@ -25,12 +25,12 @@ Make sure Python is installed on your system
 Clone the repository or download the file
 Run the program:
 ```bash
-python Random username generator.py
+python username_generator.py
 
 ##📁Project structure:
 Random username generator/
 |
-|_______Random username generator.py
+|_______username_generator.py
 |_______README.md
 ------
 
