@@ -1,4 +1,4 @@
-#Random username generator:
+#Python based Random username generator:
 #importing random
 import random as rd
 #user input
