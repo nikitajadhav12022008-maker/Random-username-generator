@@ -1,5 +1,5 @@
-#Python based Random username generator:
-#importing random
+#Python Based Random username generator:
+#importing random as rd
 import random as rd
 #user input
 name = input("enter name:")
