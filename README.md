@@ -7,10 +7,10 @@ This mini project creates a unique username by combining a user’s name with a 
 
 ## 🚀 Features:
 
+- Generates a random username instantly
+- Combines name with a random number
+- Simple and easy-to-use CLI interface
 
-Generates a random username instantly
-Combines name with a random number
-Simple and easy-to-use CLI interface
 -----
 
 ## 🛠 Technologies Used:
