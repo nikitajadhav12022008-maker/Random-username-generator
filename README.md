@@ -1,8 +1,8 @@
 ## 🎲 Random Username Generator (Python):
 
-
 A simple command-line Random Username Generator built using Python.
 This mini project creates a unique username by combining a user’s name with a random number.
+
 -----
 
 ## 🚀 Features:
