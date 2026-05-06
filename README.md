@@ -63,7 +63,6 @@ python username_generator.py
 
 ---
 
-
 # 🙋‍♀️ Author:
 Nikita Jadhav
 ---
